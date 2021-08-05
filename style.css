@@ -2,7 +2,7 @@
     width: 100px;
     height: 100px;
     position: absolute;
-    background-image: url(/img/ChessSquad.jpg);
+    background-image: url(ChessSquad.jpg);
     left: 200px;
     top: 200px;
 }
